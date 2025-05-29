@@ -1,4 +1,4 @@
-# Test  Automation Engineer - technical assignment
+# Test Automation Engineer - technical assignment
 
 ## Overview
 
@@ -21,7 +21,7 @@ The application is a slightly more sophisticated TODO items manager. Your job wi
 - Each test case should contain **at least** the following information:
   - Top-level description of tested functionality
   - Prerequisites (if needed)
-  - Steps to execute 
+  - Steps to execute
   - Validation criteria
 - Add `test-cases.md` file in the root of the repository with test cases you created.
 
@@ -29,12 +29,12 @@ The application is a slightly more sophisticated TODO items manager. Your job wi
 
 - Use testing framework of your choice, Playwright is preferred however feel free to choose different one if you're not comfortable with it.
 - All implemented test cases should pass, assume that there are no errors in the implementation.
-- Add  `run-instructions.md` with description how to run the test cases locally.
+- Add `run-instructions.md` with description how to run the test cases locally.
 - The project does not use TypeScript, however you can add it if it will make things easier for you.
 - Be prepared to explain the test cases implementation details to the technical recruiters at later recruitment stages.
 
 ## Publishing the solution
 
-We expect you to send back a link to the GitHub repository with technical assignment solution within 2-3 days. 
+We expect you to send back a link to the GitHub repository with technical assignment solution within 2-3 days.
 
 In case of any questions get back to us, we will be happy to help. Good luck!
