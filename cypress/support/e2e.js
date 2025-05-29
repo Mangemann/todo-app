@@ -18,4 +18,5 @@ import './commands'
 
 beforeEach(() => {
   cy.visit('http://localhost:3000/')
+  //cy.visit('https://wc-react-todo-app.netlify.app/') //Uncomment the URL you want the tests to run on, Comment out the unused URL
 })
